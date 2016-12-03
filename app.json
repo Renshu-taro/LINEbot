@@ -1,0 +1,18 @@
+{
+  "name": "LINEbot",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/Renshu-taro/LINEbot/blob/master/linebot.py"
+    }
+  ]
+}
